@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📗 30 Days of Pandas
+# 📗 Welcome in Introduction to 30 Days of Pandas
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Study_Plan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Problems](https://img.shields.io/badge/Problems-32-blue?style=for-the-badge)
